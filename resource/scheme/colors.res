@@ -31,7 +31,7 @@ Scheme
 		"LPBGGray"						"64 64 64 255"
 		"LPBGDarkerGray"				"16 16 16 255"
 		
-		"LPBGDarkerGrayTransparent"				"16 16 16 192"
+		"LPBGDarkerGrayTransparent"				"16 16 16 230"
 
 		"TanLight"						"255 255 255 255"
 
