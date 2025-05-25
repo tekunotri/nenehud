@@ -159,12 +159,12 @@ event HudLowAmmoPulse
 {
 
     Animate HudWeaponAmmoBG             Alpha       "0"                Linear  0.0 0.0
-	Animate HudweaponLowAmmoImage       Alpha       "255"              Linear  0.0 0.0
+	Animate PlusLow       				Alpha       "255"              Linear  0.0 0.0
 	
 	Animate AmmoInReserve			    FgColor		"Low Ammo"			Linear	0.0	0.0
-	Animate AmmoInReserve			FgColor		"Low Ammo"			Linear	0.0	0.0
-	Animate AmmoNoClip			    FgColor		"Low Ammo"			Linear	0.0	0.0
-    Animate AmmoInClip	FgColor		"Low Ammo"			Linear	0.0	0.0
+	Animate AmmoInReserve				FgColor		"Low Ammo"			Linear	0.0	0.0
+	Animate AmmoNoClip			    	FgColor		"Low Ammo"			Linear	0.0	0.0
+    Animate AmmoInClip					FgColor		"Low Ammo"			Linear	0.0	0.0
 
 	Animate AmmoInClipvalueTargetID				FgColor		"TargetID Ammo Low"			Linear	0.0	0.0
 	Animate AmmoInReservevalueTargetID			FgColor		"TargetID Ammo Low"			Linear	0.0	0.0
@@ -174,12 +174,12 @@ event HudLowAmmoPulse
 event HudLowAmmoPulseStop
 {
     Animate HudWeaponAmmoBG             Alpha       "255"                 Linear  0.0 0.0
-	Animate HudweaponLowAmmoImage       Alpha       "0"                   Linear  0.0 0.0
+	Animate PlusLow      				Alpha       "0"                   Linear  0.0 0.0
 	
 	Animate AmmoInReserve			    FgColor		"Ammo in Clip"			Linear	0.0	0.0
-	Animate AmmoInReserve			FgColor		"Ammo in Reserve"		Linear	0.0	0.0
-	Animate AmmoNoClip				FgColor		"Ammo in Clip"			Linear	0.0	0.0
-    Animate AmmoInClip	FgColor		"Ammo in Clip"			Linear	0.0	0.0
+	Animate AmmoInReserve				FgColor		"Ammo in Reserve"		Linear	0.0	0.0
+	Animate AmmoNoClip					FgColor		"Ammo in Clip"			Linear	0.0	0.0
+    Animate AmmoInClip					FgColor		"Ammo in Clip"			Linear	0.0	0.0
 	
 	Animate AmmoInClipTargetID				FgColor		"TargetID Ammo in Clip"			Linear	0.0	0.0
 	Animate AmmoInReserveTargetID			FgColor		"TargetID Ammo in Reserve"		Linear	0.0	0.0

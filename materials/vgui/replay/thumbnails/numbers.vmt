@@ -6,8 +6,6 @@
 	"$no_fullbright" 1
 	"$ignorez" 1
 	"$speed" 0
-	"$alpha" "0.7"
-	"$color" "{ 230 169 187 }"
 	Proxies {
 		PlayerSpeed {
 			scale 1
