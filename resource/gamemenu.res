@@ -22,7 +22,7 @@
 	"ConsoleButton"
 	{
 		"label"			"Toggle Console"
-		"command"		"engine con_enable 1;toggleconsole;echo nenehud by cha, cleaned up by techno for all res :3"
+		"command"		"engine con_enable 1;toggleconsole"
 		"subimage"		"glyph_forums"
 	}
 	"ReplayBrowserButton"

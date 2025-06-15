@@ -62,7 +62,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"ChargeLabel"
+		"font"			"KillstreakCount"
 		"fgcolor" "255 255 255 255"
 	}
 	"AccountValueShadow"
@@ -83,7 +83,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"ChargeLabel"
+		"font"			"KillstreakCount"
 		"fgcolor" "0 0 0 255"
 	}
 

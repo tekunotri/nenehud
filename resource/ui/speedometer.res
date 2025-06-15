@@ -13,6 +13,5 @@
 		"tall"				"12"
 		"image"				"replay/thumbnails/numbers"
 		"scaleImage"		"1"
-		"drawcolor"			"230 169 187 179"
 	}
 }
